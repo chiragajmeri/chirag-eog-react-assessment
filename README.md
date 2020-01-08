@@ -1,2 +1,5 @@
-# chirag-eog-react-assessment
-React Hook Project
+## Create React App Visualization
+
+This assessment was bespoke handcrafted for chirag.
+
+Read more about this assessment [here](https://react.eogresources.com)
